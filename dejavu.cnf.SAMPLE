@@ -1,8 +1,8 @@
 {
     "database": {
-        "host": "127.0.0.1",
+        "host": "/tmp/test",
         "user": "root",
         "passwd": "", 
-        "db": "dejavu"
+        "db": "/tmp/dejavu"
     }
 }
